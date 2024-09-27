@@ -3,7 +3,7 @@
 
 ## Descripción
 
-TuComunidad es una aplicación web diseñada para ayudar a comunidades de vecinos a organizarse y mantenerse informadas, facilitando la comunicación y gestión entre los integrantes de la comunidad.
+TuComunidad es una aplicación web diseñada para ayudar a comunidades de vecinos a organizarse y mantenerse informadas, facilitando la comunicación y gestión entre sus integrantes. Con TuComunidad, los usuarios pueden reservar instalaciones, comunicarse mediante chats comunitarios, participar en votaciones y consultar las próximas reuniones, todo a través de una interfaz intuitiva, estética y funcional.
 
 ## Características Principales
 
