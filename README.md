@@ -23,11 +23,11 @@ TuComunidad es una aplicación web diseñada para ayudar a comunidades de vecino
 
 1. **Clonar el repositorio**:
     ```bash
-    git clone https://github.com/AlvaroG001/TuComunidad-API-Java.git
+    git clone https://github.com/RousseauP00/TuComunidad-Frontend
     ```
 2. **Instalar dependencias**:
     ```bash
-    cd TuComunidad-API-Java
+    cd TuComunidad-Frontend
     npm install
     ```
 3. **Iniciar la aplicación**:
