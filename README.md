@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # TuComunidad-Frontend
 
 ## Descripción
@@ -46,4 +46,4 @@ Lo puede descargar en
 MAIN + MIGRATION-SERVER + RESERVATION + CHATS 
 =======
 
->>>>>>> 7d0a1f5bf606b672da26d6bf6ec07a9fada4733b
+
