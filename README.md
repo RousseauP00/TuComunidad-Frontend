@@ -1,8 +1,9 @@
-# TuComunidad
+<<<<<<< HEAD
+# TuComunidad-Frontend
 
 ## Descripción
 
-TuComunidad es una aplicación web interactiva desarrollada utilizando React, diseñada para facilitar la gestión y comunicación dentro de comunidades residenciales. Esta solución integral permite a los usuarios gestionar reuniones, reservar espacios comunes, participar en votaciones, y comunicarse a través de un chat comunitario, todo ello a través de una interfaz amigable y accesible.
+TuComunidad es una aplicación web diseñada para ayudar a comunidades de vecinos a organizarse y mantenerse informadas, facilitando la comunicación y gestión entre los integrantes de la comunidad.
 
 ## Características Principales
 
@@ -43,3 +44,6 @@ TuComunidad está abierto a contribuciones. Si tienes ideas para mejorar la apli
 TuComunidad emplea una API diseñada en un servidor local el cual hace falta instalarlo y correrlo para poder usar la pagina.
 Lo puede descargar en 
 MAIN + MIGRATION-SERVER + RESERVATION + CHATS 
+=======
+
+>>>>>>> 7d0a1f5bf606b672da26d6bf6ec07a9fada4733b
