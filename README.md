@@ -17,7 +17,7 @@ TuComunidad es una aplicación web diseñada para ayudar a comunidades de vecino
 
 - **React**: Para la creación de una interfaz de usuario reactiva y dinámica.
 - **React Router**: Para la gestión de navegación entre páginas de la aplicación.
-- **Node.js y MongoDB**: En el backend (consultar el repositorio correspondiente) para la lógica del servidor y gestión de la base de datos.
+- **Java con Spring Boot**: En el backend (consultar el repositorio correspondiente) para la lógica del servidor y gestión de la base de datos.
 
 ## Instrucciones de Instalación
 
